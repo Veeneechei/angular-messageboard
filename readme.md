@@ -3,8 +3,8 @@ Angular Message Board App
 
 #### Application Requires/Configuration:
 * Angular QuickStart 1.0.0
-* Node v6.11.2
-* npm 5.3.0
+* Node v9.7.1
+* npm 5.6.0
 * Typescript 2.3.3
 * Lite Server 2.3.0
 * Nodemon 1.11.0
@@ -13,7 +13,7 @@ Angular Message Board App
 ### Frontend
 * `npm i -g npm`
 * `npm install`
-* `npm install --save @angular/material@2.0.0-beta.8`
+* `npm install --save @angular/material@2.0.0-beta.12`
 * `npm start`
 
 ### Backend
