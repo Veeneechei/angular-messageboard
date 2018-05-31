@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.16.2",
-    "jsonwebtoken": "^7.3.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.2",
     "moment": "~2.19.3",
-    "nodemon": "^1.17.1"
+    "nodemon": "^1.17.5"
   }
 }
